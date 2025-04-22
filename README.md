@@ -8,9 +8,9 @@ Project Overview: ShopEasy, an online retail business, is facing reduced custome
 SQL, Power BI Desktop, SQL Server, Python, Dax Language, Power Query, Jupyter Notebook
 
 ## Functions or Library Used:
-SQL: Join, CTE, LEN, UPPER, REPLACE, CHARINDEX, LEFT, RIGHT, window function (ROW_NUMBER), CASEE WHEN etc.<br>
-Python: Pandas, Nltk, pyodbc, SentimentIntensityAnalyzer, APPLY, Lambda, function etc.<br>
-DAX: CALCULATE, ALL, DIVIDE, SUM, DISTINCTCOUNT, Selectedvalue, Variable, AVERAGE, If, SWITCH etc.
+SQL: Join, CTE, Len, Upper, Replace, CHharindex, Left, Right, window function (ROW_NUMBER), Case when etc.<br>
+Python: Pandas, Nltk, pyodbc, SentimentIntensityAnalyzer, Apply, Lambda, function etc.<br>
+DAX: Calculate, All, Divide, Sum, Distinctcount, Selectedvalue, Variable, Average, If, Switch etc.
 
 ## Key Steps:
 1. Imported Database into SQL Server and perform data cleaning, data aggregation in SQL <br><br>

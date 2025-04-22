@@ -34,11 +34,13 @@ DAX: Calculate, All, Divide, Sum, Distinctcount, Selectedvalue, Variable, Averag
  ![customer review!](https://github.com/user-attachments/assets/f7e28f2e-25ce-43a6-a212-7fed11af9da6)<br><br>
 
 ## Insight
-1. Customer Like% declining YOY (indicative of product offering not so favored by customers)
-    ----- engagement rate 4.49%, low engagement
-    -----products with higher view_click% have lower purchase% than prodcut with lower view_click rate
+1. Customer Like% declining YOY (indicative of product offering not so favored by customers)<br>
+    ----- engagement rate 4.49%, low engagement<br>
+    -----products with higher view_click% have lower purchase% than prodcut with lower view_click rate<br>
     ![customer review!](https://github.com/user-attachments/assets/0f64af58-f109-4a07-975a-39c0e55bf6e4))<br><br>
-
+2. campaign numer remained the same, but the view count on the declining trend every year. (check the view trend in 2023 and 2024)<br>
+    ![engagment view count!](https://github.com/user-attachments/assets/4ae3578b-5002-4ec5-ae05-2cda6ac9ee9d)<br><br>
+    ![engagment view count!](https://github.com/user-attachments/assets/1ad48951-23ef-48b7-8484-c79b29659340)<br><br>
 3. Campaign platform: Blog and Social Media have higher engagement than Video and Newsletter
 4. Product offering belong to higher price category have higher buy rate
 5. Customer rating during time range around July and August are relatively lower

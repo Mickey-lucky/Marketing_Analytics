@@ -24,10 +24,10 @@ DAX: CALCULATE, ALL, DIVIDE, SUM, DISTINCTCOUNT, Selectedvalue, Variable, AVERAG
  ![customer review!]()<br><br>
 4. Created dynamic measures, KPI & benchmark cards and parameters (several examples displayed below)<br>
 
-  ![Key measures!](https://github.com/user-attachments/assets/e8cb4587-b314-40a1-8320-dfd26caa9d6f)<br><br>
-  ![dynamic measures!](https://github.com/user-attachments/assets/f02d0518-de91-4166-b53f-a96697dd7319)<br><br>
-  ![dynamic measures!](https://github.com/user-attachments/assets/835809ad-cfff-4626-b771-c2b499e1b9ec)<br><br> 
-  ![dynamic titles!](https://github.com/user-attachments/assets/991bd613-9c21-4bd7-8d86-83fbbe6507b1)<br><br>
+  ![Key measures!]()<br><br>
+  ![dynamic measures!]()<br><br>
+  ![dynamic measures!]()<br><br> 
+  ![dynamic titles!]()<br><br>
 5. crafted product-wise, customer-wise and sales trend dashboards (please see above report image)<br><br>
 6. Engaged with stakeholders to gather feedback and continuously enhance the dashboard functionality and design.
 
@@ -36,12 +36,12 @@ DAX: CALCULATE, ALL, DIVIDE, SUM, DISTINCTCOUNT, Selectedvalue, Variable, AVERAG
 ## Power BI Techniques and Knowledge Used:
 • Data Modeling involving 5 tables and created dynamic measures for visualization<br>
 •	Utilized bookmarks to toggle seamlessly between multiple visuals<br>
- ![Bookmark!](https://github.com/user-attachments/assets/818250b5-890f-4862-a275-2ceb2e225c03)<br><br>
- ![Bookmark!](https://github.com/user-attachments/assets/1517b6ec-2a86-4b6f-9ea0-c15bb21c5edc)<br><br>
+ ![Bookmark!]()<br><br>
+ ![Bookmark!]()<br><br>
 •	Developed a tooltip page to display detailed insights, such as top-selling 5 medications for each country and customer age group<br>
- ![Tooltip!](https://github.com/user-attachments/assets/f50e352a-3aac-4f79-92d9-7044449991a0)<br><br>
+ ![Tooltip!]()<br><br>
 •	Created TOPN parameter and KPI slicers to filter top/underperforming products <br>
 • Used image-based navigation action for page navigation<br>
 • Developed dynamic titles that adapt based on the selected slicers and parameters<br>
- ![dymanic title!](https://github.com/user-attachments/assets/ad03ee04-e2a9-4247-bfb7-75873add79a7)<br>
+ ![dymanic title!]()<br>
 • Sales & Customer Analysis domain knowledge

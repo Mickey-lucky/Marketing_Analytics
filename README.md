@@ -17,13 +17,14 @@ DAX: CALCULATE, ALL, DIVIDE, SUM, DISTINCTCOUNT, Selectedvalue, Variable, AVERAG
  ![SQL!](https://github.com/user-attachments/assets/17920f2b-6d81-46f5-9d91-5ea32a727901)<br><br>
  ![SQL!](https://github.com/user-attachments/assets/a81491ab-1d0c-4f72-8db6-dd33d6df4976)<br><br>
  ![SQL!](https://github.com/user-attachments/assets/46d02bb5-84bb-4670-a035-c7186ef25480)<br><br>
-2. Establish connection with SQL Server and	Perform customer review sentiment analysis in Jupyter Notebook<br><br>
+ 
+2. Establish connection with SQL Server and	Perform customer review sentiment analysis using Python<br><br>
 ![python!](https://github.com/user-attachments/assets/7757b635-d8bb-4d5c-967e-0078106f1ba2)<br><br>
 ![python!](https://github.com/user-attachments/assets/d38ed2dd-f02b-4a97-be8d-ddd660d3ee43)<br><br>
 ![python!](https://github.com/user-attachments/assets/f3952db6-6085-423a-b2f1-918117b2b14d)<br><br>
 ![python!](https://github.com/user-attachments/assets/cac1f963-5b19-4a8f-b938-0d785d53b749)<br><br>
 
-3.	Measure creation and data visualization and analysis in Power BI <br>
+3.	Measure creation and data visualization and analysis in Power BI <br><br>
  ![customer engagement!](https://github.com/user-attachments/assets/4c3c7458-a7e3-4646-87f2-ad3195eaaff2)<br><br>
  ![customer journey!](https://github.com/user-attachments/assets/8e733970-c8c7-4c8f-adfe-54105922fe4f)<br><br>
  ![customer review!](https://github.com/user-attachments/assets/f7e28f2e-25ce-43a6-a212-7fed11af9da6)<br><br>

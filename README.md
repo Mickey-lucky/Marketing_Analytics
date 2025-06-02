@@ -1,4 +1,4 @@
-# Marketing_Analytics
+# Marketing_Campaign_Analytics
 ## Introduction 
 Project Overview: ShopEasy, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They requested data analyst  to help conduct a detailed analysis and visualization and identify areas for improvement in their marketing strategies. 
 [Project live report](https://app.powerbi.com/view?r=eyJrIjoiN2E0NDJjOWQtY2M5YS00MGIwLTk2ODAtZWJhNTQ3YjIxOWVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)<br><br>
